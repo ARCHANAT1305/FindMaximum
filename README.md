@@ -15,9 +15,11 @@ i)	# To find the maximum of marks using the list method sort.
 2. marks.sort()
 3. max_marks = marks[-1]
 4. return max_mark
+
 ii)	# To find the maximum marks using the list method max().
 1. def max_marks(marks):1
 2. return(max_marks)
+
 iii) # To find the maximum marks without using builtin functions.
 1. def max_marks(list):
 2. max_list[0]
